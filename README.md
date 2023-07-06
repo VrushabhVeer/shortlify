@@ -9,6 +9,8 @@ You can access the live version of the application at [https://shortlify-app.net
 
 The source code for the application can be found at [https://github.com/VrushabhVeer/shortlify](https://github.com/VrushabhVeer/shortlify).
 
+The backend source code for the application can be found at [https://github.com/VrushabhVeer/shortlify_backend](https://github.com/VrushabhVeer/shortlify_backend).
+
 ## Technologies Used
 
 ### Frontend
@@ -47,9 +49,6 @@ To get a local copy of the project up and running, follow these steps:
    - Start the frontend: `npm start`
    - Start the backend: `cd server && npm start`
      
-## Backend Repo
-1. Backend repository: `https://github.com/VrushabhVeer/shortlify.git`
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or want to add new features, feel free to open a pull request.
