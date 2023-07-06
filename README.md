@@ -7,7 +7,7 @@ You can access the live version of the application at [https://shortlify-app.net
 
 ## Repository
 
-The source code for the application can be found at [https://github.com/VrushabhVeer/shortlify](https://github.com/VrushabhVeer/shortlify).
+The frontend source code for the application can be found at [https://github.com/VrushabhVeer/shortlify](https://github.com/VrushabhVeer/shortlify).
 
 The backend source code for the application can be found at [https://github.com/VrushabhVeer/shortlify_backend](https://github.com/VrushabhVeer/shortlify_backend).
 
